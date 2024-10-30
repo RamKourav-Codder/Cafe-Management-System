@@ -1,4 +1,4 @@
-"""This is the menu of the cafe"""
+"""This is the cafe management system"""
 
 # Greetings
 print("Welcome To Our Cafe...")
